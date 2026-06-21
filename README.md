@@ -14,6 +14,19 @@ The dashboard focuses on carriers physically based in:
 
 The goal of this project is to create a practical safety and compliance dashboard that could support management review, carrier risk monitoring, and operational safety analysis.
 
+## Business Questions Answered
+
+This dashboard was built to answer practical safety and compliance questions, including:
+
+- How large is the overall safety and compliance risk picture for Upper Midwest carriers?
+- Which carrier home states have the highest inspection, violation, OOS, and crash volumes?
+- Which FMCSA BASIC categories are driving the most violations?
+- How do inspections and violations trend over time?
+- Which carriers account for the highest number of OOS violations?
+- Which high-volume OOS carriers have the highest OOS violation rates?
+- What violation descriptions appear most often?
+- Which carriers may need closer review based on inspections, violations, OOS activity, crashes, and violation rates?
+
 ## Dashboard Pages
 
 ### 1. Executive Safety Overview
