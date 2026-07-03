@@ -167,15 +167,15 @@ upper-midwest-fleet-safety-dashboard/
 
 Large raw FMCSA source files are not included in this repository due to file size. The dashboard was built using cleaned and filtered data derived from public FMCSA SMS input files.
 
-```markdown
 The Power BI `.pbix` file is not included in this repository due to file size limits.
+
 ## Project Purpose
 
 This project was built as a portfolio project to demonstrate:
 
-* Power BI dashboard development
-* Data cleaning and preparation
-* Data modeling
-* DAX measure creation
-* Transportation safety and compliance analysis
-* Practical interpretation of FMCSA inspection, violation, OOS, and crash data
+- Power BI dashboard development
+- Data cleaning and preparation
+- Data modeling
+- DAX measure creation
+- Transportation safety and compliance analysis
+- Practical interpretation of FMCSA inspection, violation, OOS, and crash data
