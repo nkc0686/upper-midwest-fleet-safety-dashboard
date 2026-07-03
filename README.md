@@ -144,8 +144,6 @@ Some of the main findings from the dashboard include:
 
 ## Repository Contents
 
-Suggested repository structure:
-
 ```text
 
 upper-midwest-fleet-safety-dashboard/
@@ -169,6 +167,8 @@ upper-midwest-fleet-safety-dashboard/
 
 Large raw FMCSA source files are not included in this repository due to file size. The dashboard was built using cleaned and filtered data derived from public FMCSA SMS input files.
 
+```markdown
+The Power BI `.pbix` file is not included in this repository due to file size limits.
 ## Project Purpose
 
 This project was built as a portfolio project to demonstrate:
