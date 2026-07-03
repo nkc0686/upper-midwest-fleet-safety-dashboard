@@ -66,7 +66,7 @@ Violation-level fact table filtered to violations tied to Midwest-based inspecti
 
 ### fact_crashes_midwest
 
-Crash-level fact table used for crash analysis.
+Crash-level fact table used for crash analysis. Crash records may include crashes reported in the selected states and linked to available carrier records.
 
 | Field | Description |
 |---|---|
