@@ -147,11 +147,11 @@ Some of the main findings from the dashboard include:
 Suggested repository structure:
 
 ```text
+
 upper-midwest-fleet-safety-dashboard/
 │
 ├── README.md
-├── dashboard/
-│   └── Upper_Midwest_Fleet_Safety_Dashboard.pbix
+├── LICENSE
 │
 ├── images/
 │   ├── executive-overview.png
